@@ -1,0 +1,278 @@
+{
+  "sections": {
+    "2e42202b-192c-4fe7-a936-08f719252521": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16256388399291__2e42202b-192c-4fe7-a936-08f719252521-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16256388399291__2e42202b-192c-4fe7-a936-08f719252521-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16256388399291__2e42202b-192c-4fe7-a936-08f719252521-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "contact",
+            "button_link_1": "shopify:\/\/pages\/hardcore-about-us",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16256388399291__2e42202b-192c-4fe7-a936-08f719252521-heading-1",
+        "template--16256388399291__2e42202b-192c-4fe7-a936-08f719252521-text-1",
+        "template--16256388399291__2e42202b-192c-4fe7-a936-08f719252521-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HARDCORE_FUCK_YOU_copy.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "05f9d2fd-230a-448b-89e5-486a39d1ab5d": {
+      "type": "multirow",
+      "blocks": {
+        "template--16256388399291__05f9d2fd-230a-448b-89e5-486a39d1ab5d-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hardcore_Tattoo_portrait_bruce_lee.jpg",
+            "caption": "Hardcore tattoos",
+            "heading": "Portraits",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16256388399291__05f9d2fd-230a-448b-89e5-486a39d1ab5d-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hardcore_Tattoo.jpg",
+            "caption": "Hardcore tattoos",
+            "heading": "Custom",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16256388399291__05f9d2fd-230a-448b-89e5-486a39d1ab5d-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hardcore_Tattoo_portrait.jpg",
+            "caption": "Hardcore Tattoo",
+            "heading": "Animals",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16256388399291__05f9d2fd-230a-448b-89e5-486a39d1ab5d-row-1",
+        "template--16256388399291__05f9d2fd-230a-448b-89e5-486a39d1ab5d-row-2",
+        "template--16256388399291__05f9d2fd-230a-448b-89e5-486a39d1ab5d-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dcdd5b10-09d5-47c0-9a6e-388909c5ed65": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16256388399291__dcdd5b10-09d5-47c0-9a6e-388909c5ed65-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact about availability",
+            "heading_size": "h1"
+          }
+        },
+        "template--16256388399291__dcdd5b10-09d5-47c0-9a6e-388909c5ed65-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Due to location and traveling multiple times a year. Please contact us with about location and availability.<\/p>"
+          }
+        },
+        "template--16256388399291__dcdd5b10-09d5-47c0-9a6e-388909c5ed65-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16256388399291__dcdd5b10-09d5-47c0-9a6e-388909c5ed65-heading-1",
+        "template--16256388399291__dcdd5b10-09d5-47c0-9a6e-388909c5ed65-text-1",
+        "template--16256388399291__dcdd5b10-09d5-47c0-9a6e-388909c5ed65-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a9c286d5-318e-49f0-a27f-a931daa3c217": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16256388399291__a9c286d5-318e-49f0-a27f-a931daa3c217-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Hardcore Tattoo",
+            "heading_size": "h1"
+          }
+        },
+        "template--16256388399291__a9c286d5-318e-49f0-a27f-a931daa3c217-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--16256388399291__a9c286d5-318e-49f0-a27f-a931daa3c217-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16256388399291__a9c286d5-318e-49f0-a27f-a931daa3c217-heading-1",
+        "template--16256388399291__a9c286d5-318e-49f0-a27f-a931daa3c217-text-1",
+        "template--16256388399291__a9c286d5-318e-49f0-a27f-a931daa3c217-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/277813481_4919843988051422_8867278177514251797_n.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9cc36456-cd2a-4784-a19c-798219704487": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a62f58f5-d684-467e-8ec8-a22dac7c8d10": {
+      "type": "collage",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1b66bae9-8108-4d6b-b304-6128305a75df": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-0",
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-1",
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "2e42202b-192c-4fe7-a936-08f719252521",
+    "main",
+    "05f9d2fd-230a-448b-89e5-486a39d1ab5d",
+    "dcdd5b10-09d5-47c0-9a6e-388909c5ed65",
+    "a9c286d5-318e-49f0-a27f-a931daa3c217",
+    "9cc36456-cd2a-4784-a19c-798219704487",
+    "a62f58f5-d684-467e-8ec8-a22dac7c8d10",
+    "1b66bae9-8108-4d6b-b304-6128305a75df"
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "sections": {
+    "f50f4943-0138-47e3-a64e-6e3d5dad3bf1": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16255521194171__f50f4943-0138-47e3-a64e-6e3d5dad3bf1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "HARDCORE ByJosh Ely",
+            "heading_size": "h1"
+          }
+        },
+        "template--16255521194171__f50f4943-0138-47e3-a64e-6e3d5dad3bf1-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521194171__f50f4943-0138-47e3-a64e-6e3d5dad3bf1-heading-1",
+        "template--16255521194171__f50f4943-0138-47e3-a64e-6e3d5dad3bf1-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/H_Facebook_Cover_copy_2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "422a93f6-e71e-48b8-98fb-9411563b5ad0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16222796972219__422a93f6-e71e-48b8-98fb-9411563b5ad0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hardcore Clothing",
+            "heading_size": "h1"
+          }
+        },
+        "template--16222796972219__422a93f6-e71e-48b8-98fb-9411563b5ad0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Is modern style art, from a real artists perspective.  I use clothing as another medium to tell the world to Fuck Off!<\/p>"
+          }
+        },
+        "template--16222796972219__422a93f6-e71e-48b8-98fb-9411563b5ad0-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16222796972219__422a93f6-e71e-48b8-98fb-9411563b5ad0-heading-1",
+        "template--16222796972219__422a93f6-e71e-48b8-98fb-9411563b5ad0-text-1",
+        "template--16222796972219__422a93f6-e71e-48b8-98fb-9411563b5ad0-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "a489576f-9c73-4387-a292-dee25903ca73": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16227579592891__a489576f-9c73-4387-a292-dee25903ca73-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Righteous Demons",
+            "heading_size": "h2"
+          }
+        },
+        "template--16227579592891__a489576f-9c73-4387-a292-dee25903ca73-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sick an Twisted that believe in doing the right shit for the right reasons<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--16227579592891__a489576f-9c73-4387-a292-dee25903ca73-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Mens",
+            "button_link": "shopify:\/\/collections\/righteous-demons",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16227579592891__a489576f-9c73-4387-a292-dee25903ca73-heading-1",
+        "template--16227579592891__a489576f-9c73-4387-a292-dee25903ca73-text-1",
+        "template--16227579592891__a489576f-9c73-4387-a292-dee25903ca73-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dsemons.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "49dd5f1d-6a77-41c6-a969-a0f91963f562": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16148844609723__49dd5f1d-6a77-41c6-a969-a0f91963f562-1681684363abb50a77-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Save your pitty for the weak<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16148844609723__49dd5f1d-6a77-41c6-a969-a0f91963f562-1681684363abb50a77-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Hardcore is Discipline, Perseverance, and pure Fucking Awesomeness! I understand my emotions and I utilize them to pursue my dreams. My Angels & Demons<\/h3>"
+          }
+        },
+        "template--16148844609723__49dd5f1d-6a77-41c6-a969-a0f91963f562-1681684363abb50a77-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16148844609723__49dd5f1d-6a77-41c6-a969-a0f91963f562-1681684363abb50a77-0",
+        "template--16148844609723__49dd5f1d-6a77-41c6-a969-a0f91963f562-1681684363abb50a77-1",
+        "template--16148844609723__49dd5f1d-6a77-41c6-a969-a0f91963f562-1681684363abb50a77-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 44
+      }
+    },
+    "d3dfe09d-054f-4c2f-b6c4-e35c61d101ed": {
+      "type": "collage",
+      "blocks": {
+        "template--16255521194171__d3dfe09d-054f-4c2f-b6c4-e35c61d101ed-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hardcoreartcopy2_966cc3f8-3cfd-4a15-949a-badd32b9c78a.jpg"
+          }
+        },
+        "template--16255521194171__d3dfe09d-054f-4c2f-b6c4-e35c61d101ed-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "straight-razor-hoodie-dtg-hardcore-straight-razor-heavyweight-hoodie",
+            "second_image": false
+          }
+        },
+        "template--16255521194171__d3dfe09d-054f-4c2f-b6c4-e35c61d101ed-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "hardcore-clothing-fuck-you-collection"
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521194171__d3dfe09d-054f-4c2f-b6c4-e35c61d101ed-image-1",
+        "template--16255521194171__d3dfe09d-054f-4c2f-b6c4-e35c61d101ed-product-1",
+        "template--16255521194171__d3dfe09d-054f-4c2f-b6c4-e35c61d101ed-collection-1"
+      ],
+      "settings": {
+        "heading": "Hardcore<em> <\/em><em><strong>Fuck You <\/strong><\/em>Collection",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Hardcore is  a Lifestyle<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "c8beeb34-d1f8-480f-b539-510762c225e8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I want to inspire generations of all ages by leading by example. I was once lost with no hope and had a lot of demons because of it. But I faced those demons that tormented me and found a way to turn my suffering into motivation. Hardcore is more than just a clothing brand; it's pure fucking awesomeness! It represents my struggles and the will to overcome them. My wicked designs and awesome ideas are a testament to my trials and tribulations.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "c8beeb34-d1f8-480f-b539-510762c225e8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "af148320-7850-4b62-b1c3-38ea7b0e6542": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16255521194171__af148320-7850-4b62-b1c3-38ea7b0e6542-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hardcore-wicked-hoodies"
+          }
+        },
+        "template--16255521194171__af148320-7850-4b62-b1c3-38ea7b0e6542-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sick-t-shirts"
+          }
+        },
+        "template--16255521194171__af148320-7850-4b62-b1c3-38ea7b0e6542-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hardcore-clothing-lost-angels-collection"
+          }
+        },
+        "5a056b02-4b4d-4353-b15f-3f4f54695198": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hardcore-bmx"
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521194171__af148320-7850-4b62-b1c3-38ea7b0e6542-featured_collection-1",
+        "template--16255521194171__af148320-7850-4b62-b1c3-38ea7b0e6542-featured_collection-2",
+        "template--16255521194171__af148320-7850-4b62-b1c3-38ea7b0e6542-featured_collection-3",
+        "5a056b02-4b4d-4353-b15f-3f4f54695198"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e625104d-d615-4d86-9363-6e0bd7ea3e55": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16255521194171__e625104d-d615-4d86-9363-6e0bd7ea3e55-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "HARDCORE TATTOO 1982",
+            "heading_size": "h1"
+          }
+        },
+        "template--16255521194171__e625104d-d615-4d86-9363-6e0bd7ea3e55-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521194171__e625104d-d615-4d86-9363-6e0bd7ea3e55-heading-1",
+        "template--16255521194171__e625104d-d615-4d86-9363-6e0bd7ea3e55-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f735c64c-1be1-4b51-b1ca-0cef6e338dbe": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16255521194171__f735c64c-1be1-4b51-b1ca-0cef6e338dbe-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hardcore Tattoos",
+            "heading_size": "h1"
+          }
+        },
+        "template--16255521194171__f735c64c-1be1-4b51-b1ca-0cef6e338dbe-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Portfolio",
+            "button_link_1": "shopify:\/\/pages\/hardcore-about-us",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/pages\/hardcore-about-us",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521194171__f735c64c-1be1-4b51-b1ca-0cef6e338dbe-heading-1",
+        "template--16255521194171__f735c64c-1be1-4b51-b1ca-0cef6e338dbe-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HARDCORE_FUCK_YOU_copy.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_wiVqPL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xtYdFG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_GzQm9h": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_GmxCRd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xtYdFG",
+        "text_GzQm9h",
+        "button_GmxCRd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "0e6d59e9-d374-4d1c-b640-4a09caf74875": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16227579592891__0e6d59e9-d374-4d1c-b640-4a09caf74875-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hardcore  BMX",
+            "heading_size": "h0"
+          }
+        },
+        "template--16227579592891__0e6d59e9-d374-4d1c-b640-4a09caf74875-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--16227579592891__0e6d59e9-d374-4d1c-b640-4a09caf74875-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": false,
+            "button_label_2": "BMX",
+            "button_link_2": "shopify:\/\/collections\/hardcore-bmx",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16227579592891__0e6d59e9-d374-4d1c-b640-4a09caf74875-heading-1",
+        "template--16227579592891__0e6d59e9-d374-4d1c-b640-4a09caf74875-text-1",
+        "template--16227579592891__0e6d59e9-d374-4d1c-b640-4a09caf74875-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/H_Facebook_Cover_copy.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "b210572d-ac08-42e1-b04e-c01bce0ea093": {
+      "type": "multirow",
+      "blocks": {
+        "template--16255521194171__b210572d-ac08-42e1-b04e-c01bce0ea093-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_500_x_500_px_copy_8.jpg",
+            "caption": "Hardcore services",
+            "heading": "Hardcore Art",
+            "text": "<p>{{ shop.brand.short_description }}<\/p>",
+            "button_label": "Art",
+            "button_link": "shopify:\/\/pages\/hardcore-art"
+          }
+        },
+        "template--16255521194171__b210572d-ac08-42e1-b04e-c01bce0ea093-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hardcore_art_copy_5.jpg",
+            "caption": "Hardcore Services",
+            "heading": "Hardcore Graffiti",
+            "text": "",
+            "button_label": "Paintkiller",
+            "button_link": "shopify:\/\/pages\/hardcore-graffiti"
+          }
+        },
+        "template--16255521194171__b210572d-ac08-42e1-b04e-c01bce0ea093-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_500_x_500_px_copy.jpg",
+            "caption": "Hardcore services",
+            "heading": "Hardcore AI",
+            "text": "<p>I have been on the front line of AI from day one! Being a true artist, I instantly saw its potential for creativity. It's a medium, and a badass one at that!<\/p>",
+            "button_label": "Contact",
+            "button_link": "shopify:\/\/pages\/hardcore-ai-1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521194171__b210572d-ac08-42e1-b04e-c01bce0ea093-row-1",
+        "template--16255521194171__b210572d-ac08-42e1-b04e-c01bce0ea093-row-2",
+        "template--16255521194171__b210572d-ac08-42e1-b04e-c01bce0ea093-row-3"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "accent-2",
+        "row_color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "feb8391c-877a-4f67-9115-892aa701efef": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16255521194171__feb8391c-877a-4f67-9115-892aa701efef-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hardcorebyjoshely_Design_an_image_that_symbolizes_the_inner_fir_60ba0c6a-3aeb-429b-8688-47753667284f_copy.png",
+            "title": "Hardcore Business Solutions",
+            "text": "",
+            "link_label": "Hardcore AAA",
+            "link": "shopify:\/\/pages\/hardcore-ai-art"
+          }
+        },
+        "template--16255521194171__feb8391c-877a-4f67-9115-892aa701efef-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hardcore_skull.jpg",
+            "title": "Mid Journey",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16255521194171__feb8391c-877a-4f67-9115-892aa701efef-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hardcorebyjoshely_photorealistic_horror_4k_half_body_Jason_Vo_20891102-e965-4ff7-b7f4-0466d5f00049_2.png",
+            "title": "Hardcore Agents",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521194171__feb8391c-877a-4f67-9115-892aa701efef-column-1",
+        "template--16255521194171__feb8391c-877a-4f67-9115-892aa701efef-column-2",
+        "template--16255521194171__feb8391c-877a-4f67-9115-892aa701efef-column-3"
+      ],
+      "settings": {
+        "title": "Hardcore AI 1982",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b95f653b-683f-4ff0-b8d6-f8614210aaa2": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16227579592891__b95f653b-683f-4ff0-b8d6-f8614210aaa2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hardcore by Josh Ely",
+            "heading_size": "h1"
+          }
+        },
+        "template--16227579592891__b95f653b-683f-4ff0-b8d6-f8614210aaa2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I'm the creator of this Horror   Circus of Salvation. You are now witnessing the M<strong>ind of a Monster<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16227579592891__b95f653b-683f-4ff0-b8d6-f8614210aaa2-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "My story",
+            "button_link": "shopify:\/\/pages\/my-story",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16227579592891__b95f653b-683f-4ff0-b8d6-f8614210aaa2-heading-1",
+        "template--16227579592891__b95f653b-683f-4ff0-b8d6-f8614210aaa2-text-1",
+        "template--16227579592891__b95f653b-683f-4ff0-b8d6-f8614210aaa2-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hardcore_by_josh_ely_copy.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6405f2c9-702a-4d1a-a093-b711402d1afb": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16255521194171__6405f2c9-702a-4d1a-a093-b711402d1afb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16255521194171__6405f2c9-702a-4d1a-a093-b711402d1afb-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16255521194171__6405f2c9-702a-4d1a-a093-b711402d1afb-email_form-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521194171__6405f2c9-702a-4d1a-a093-b711402d1afb-heading-1",
+        "template--16255521194171__6405f2c9-702a-4d1a-a093-b711402d1afb-paragraph-1",
+        "template--16255521194171__6405f2c9-702a-4d1a-a093-b711402d1afb-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "7922953a-7156-47b9-8ab8-38cc825e0eb5": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Hardcore Blog:",
+        "heading_size": "h1",
+        "blog": "news",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "f50f4943-0138-47e3-a64e-6e3d5dad3bf1",
+    "422a93f6-e71e-48b8-98fb-9411563b5ad0",
+    "a489576f-9c73-4387-a292-dee25903ca73",
+    "49dd5f1d-6a77-41c6-a969-a0f91963f562",
+    "d3dfe09d-054f-4c2f-b6c4-e35c61d101ed",
+    "rich_text",
+    "af148320-7850-4b62-b1c3-38ea7b0e6542",
+    "e625104d-d615-4d86-9363-6e0bd7ea3e55",
+    "f735c64c-1be1-4b51-b1ca-0cef6e338dbe",
+    "rich_text_wiVqPL",
+    "0e6d59e9-d374-4d1c-b640-4a09caf74875",
+    "b210572d-ac08-42e1-b04e-c01bce0ea093",
+    "feb8391c-877a-4f67-9115-892aa701efef",
+    "b95f653b-683f-4ff0-b8d6-f8614210aaa2",
+    "6405f2c9-702a-4d1a-a093-b711402d1afb",
+    "7922953a-7156-47b9-8ab8-38cc825e0eb5"
+  ]
+}

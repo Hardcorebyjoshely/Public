@@ -1,0 +1,525 @@
+{
+  "current": {
+    "logo": "shopify:\/\/shop_images\/thick_hardcore-PhotoRoom_4328498f-4d14-4b2a-9f83-0c20f2493638.png",
+    "logo_width": 230,
+    "favicon": "shopify:\/\/shop_images\/Your_paragraph_text_copy.png",
+    "type_header_font": "abril_fatface_n4",
+    "heading_scale": 130,
+    "type_body_font": "bodoni_poster_n9",
+    "body_scale": 105,
+    "page_width": 1000,
+    "spacing_sections": 12,
+    "spacing_grid_horizontal": 8,
+    "spacing_grid_vertical": 8,
+    "animations_reveal_on_scroll": false,
+    "animations_hover_elements": "3d-lift",
+    "buttons_border_thickness": 5,
+    "buttons_border_opacity": 100,
+    "buttons_radius": 12,
+    "buttons_shadow_opacity": 0,
+    "buttons_shadow_horizontal_offset": 4,
+    "buttons_shadow_vertical_offset": 4,
+    "buttons_shadow_blur": 5,
+    "variant_pills_border_thickness": 3,
+    "variant_pills_border_opacity": 55,
+    "variant_pills_radius": 40,
+    "variant_pills_shadow_opacity": 0,
+    "variant_pills_shadow_horizontal_offset": 0,
+    "variant_pills_shadow_vertical_offset": 0,
+    "variant_pills_shadow_blur": 5,
+    "inputs_border_thickness": 4,
+    "inputs_border_opacity": 55,
+    "inputs_radius": 0,
+    "inputs_shadow_opacity": 0,
+    "inputs_shadow_horizontal_offset": 0,
+    "inputs_shadow_vertical_offset": 4,
+    "inputs_shadow_blur": 5,
+    "card_style": "card",
+    "card_image_padding": 4,
+    "card_text_alignment": "center",
+    "card_color_scheme": "inverse",
+    "card_border_thickness": 4,
+    "card_border_opacity": 100,
+    "card_corner_radius": 10,
+    "card_shadow_opacity": 0,
+    "card_shadow_horizontal_offset": -4,
+    "card_shadow_vertical_offset": -4,
+    "card_shadow_blur": 10,
+    "collection_card_style": "standard",
+    "collection_card_image_padding": 4,
+    "collection_card_text_alignment": "center",
+    "collection_card_color_scheme": "inverse",
+    "collection_card_border_thickness": 5,
+    "collection_card_border_opacity": 25,
+    "collection_card_corner_radius": 10,
+    "collection_card_shadow_opacity": 30,
+    "collection_card_shadow_horizontal_offset": 12,
+    "collection_card_shadow_vertical_offset": 12,
+    "collection_card_shadow_blur": 10,
+    "blog_card_style": "standard",
+    "blog_card_image_padding": 4,
+    "blog_card_text_alignment": "left",
+    "blog_card_color_scheme": "accent-1",
+    "blog_card_border_thickness": 6,
+    "blog_card_border_opacity": 85,
+    "blog_card_corner_radius": 2,
+    "blog_card_shadow_opacity": 0,
+    "blog_card_shadow_horizontal_offset": 0,
+    "blog_card_shadow_vertical_offset": 4,
+    "blog_card_shadow_blur": 5,
+    "text_boxes_border_thickness": 4,
+    "text_boxes_border_opacity": 100,
+    "text_boxes_radius": 0,
+    "text_boxes_shadow_opacity": 80,
+    "text_boxes_shadow_horizontal_offset": -2,
+    "text_boxes_shadow_vertical_offset": 6,
+    "text_boxes_shadow_blur": 20,
+    "media_border_thickness": 4,
+    "media_border_opacity": 100,
+    "media_radius": 4,
+    "media_shadow_opacity": 100,
+    "media_shadow_horizontal_offset": -10,
+    "media_shadow_vertical_offset": 14,
+    "media_shadow_blur": 40,
+    "popup_border_thickness": 1,
+    "popup_border_opacity": 10,
+    "popup_corner_radius": 0,
+    "popup_shadow_opacity": 0,
+    "popup_shadow_horizontal_offset": 0,
+    "popup_shadow_vertical_offset": 4,
+    "popup_shadow_blur": 5,
+    "drawer_border_thickness": 8,
+    "drawer_border_opacity": 35,
+    "drawer_shadow_opacity": 0,
+    "drawer_shadow_horizontal_offset": 0,
+    "drawer_shadow_vertical_offset": 4,
+    "drawer_shadow_blur": 5,
+    "badge_position": "top left",
+    "badge_corner_radius": 40,
+    "sale_badge_color_scheme": "background-2",
+    "sold_out_badge_color_scheme": "inverse",
+    "brand_headline": "Just Keep Going",
+    "brand_description": "<p>Fuck everybody <\/p>",
+    "brand_image": "shopify:\/\/shop_images\/Copy_of_hardcore_21079bea-6a17-4227-aebd-54996a9cae55.png",
+    "brand_image_width": 105,
+    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100085912122442",
+    "social_instagram_link": "https:\/\/www.instagram.com\/",
+    "social_youtube_link": "https:\/\/www.instagram.com\/hardcorebyjoshely\/",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@hardcorebyjoshely?lang=en",
+    "social_twitter_link": "https:\/\/twitter.com\/hardcorejoshely",
+    "social_snapchat_link": "",
+    "social_pinterest_link": "https:\/\/pin.it\/2LPuZE3",
+    "social_tumblr_link": "",
+    "social_vimeo_link": "",
+    "predictive_search_enabled": true,
+    "predictive_search_show_vendor": true,
+    "predictive_search_show_price": false,
+    "currency_code_enabled": true,
+    "cart_type": "page",
+    "show_vendor": true,
+    "show_cart_note": true,
+    "cart_drawer_collection": "hardcore-wicked-hoodies",
+    "checkout_logo_image": "shopify:\/\/shop_images\/thick_hardcore-PhotoRoom_4328498f-4d14-4b2a-9f83-0c20f2493638.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#800606",
+    "checkout_sidebar_background_image": "shopify:\/\/shop_images\/Your_paragraph_text_copy.png",
+    "checkout_sidebar_background_color": "#070807",
+    "checkout_heading_font": "Oswald",
+    "checkout_body_font": "Slabo 13px",
+    "checkout_accent_color": "#070807",
+    "checkout_button_color": "#cfa806",
+    "checkout_error_color": "#a0d6ab",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "8ed6864f-7e5f-4100-b327-a472ddaf6d96": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "'NEW' THE GRIND SHOP",
+              "link": "shopify:\/\/pages\/the-grind-shop"
+            }
+          },
+          "74011a44-c6af-4dd5-b38e-520879c4e198": {
+            "type": "announcement",
+            "settings": {
+              "text": "FREE SHIPPING-Track your order",
+              "link": "https:\/\/hardcorebyjoshely.aftership.com\/"
+            }
+          }
+        },
+        "block_order": [
+          "8ed6864f-7e5f-4100-b327-a472ddaf6d96",
+          "74011a44-c6af-4dd5-b38e-520879c4e198"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo_position": "top-center",
+          "menu": "main-menu",
+          "menu_type_desktop": "mega",
+          "show_line_separator": true,
+          "color_scheme": "accent-1",
+          "mobile_logo_position": "center",
+          "margin_bottom": 0,
+          "padding_top": 0,
+          "padding_bottom": 0
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Info",
+              "menu": "footer"
+            }
+          },
+          "footer-2": {
+            "type": "text",
+            "settings": {
+              "heading": "Our mission",
+              "subtext": "<p>At Hardcore, our goal is to unleash the full potential of individuals and allow them to live their lives to the fullest without any limitations. We believe in being WICKED, living life with a sense of fearless adventure and embracing individuality in all its forms. Our commitment is to provide a platform for people to express themselves in their own unique and awesome ways. We aim to inspire and empower people to pursue their passions without any fear of judgment, and promote a culture of acceptance and inclusivity. By providing wicked products, services and content, we aim to build a supportive community that celebrates diversity and encourages individuals to unleash their inner-awesomeness. Join us in our mission to make the world a more compassionate and harmonious place, where everyone is free to be their true, awesome and wicked selves.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1",
+          "footer-2"
+        ],
+        "settings": {
+          "color_scheme": "accent-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "Subscribe to our emails",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true,
+          "margin_top": 24,
+          "padding_top": 20,
+          "padding_bottom": 24
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "color_scheme": "background-1"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": "background-1"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "16278478101612877664": {
+        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    },
+    "color_schemes": {
+      "background-1": {
+        "settings": {
+          "background": "{{ shop.brand.colors.primary[0].background }}",
+          "background_gradient": "linear-gradient(0deg, rgba(8, 0, 0, 1) 54%, rgba(90, 2, 2, 1) 100%)",
+          "text": "#ffffff",
+          "button": "#ff0000",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#172a01"
+        }
+      },
+      "background-2": {
+        "settings": {
+          "background": "#2e0000",
+          "background_gradient": "linear-gradient(180deg, rgba(8, 1, 0, 1) 1.799%, rgba(105, 8, 8, 1) 100%)",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#2e0000",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#ffffff"
+        }
+      },
+      "inverse": {
+        "settings": {
+          "background": "#000000",
+          "background_gradient": "",
+          "text": "{{ shop.brand.colors.primary[0].foreground }}",
+          "button": "{{ shop.brand.colors.primary[0].background }}",
+          "button_label": "#c90707",
+          "secondary_button_label": "#800606",
+          "shadow": "#000000"
+        }
+      },
+      "accent-1": {
+        "settings": {
+          "background": "#ff0000",
+          "background_gradient": "radial-gradient(rgba(194, 11, 11, 1), rgba(8, 1, 0, 1) 99.64%)",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#ff0000",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#ffffff"
+        }
+      },
+      "accent-2": {
+        "settings": {
+          "background": "{{ shop.brand.colors.primary[1].background }}",
+          "background_gradient": "linear-gradient(359deg, rgba(0, 0, 0, 1) 76%, rgba(152, 3, 3, 1) 100%)",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "{{ shop.brand.colors.primary[1].background }}",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#0d0d0d"
+        }
+      },
+      "scheme-15177838-bbbc-4ebf-b0eb-8b75f01e2ac3": {
+        "settings": {
+          "background": "{{ shop.brand.colors.primary[0].background }}",
+          "background_gradient": "linear-gradient(0deg, rgba(8, 0, 0, 1) 72%, rgba(75, 244, 106, 1) 100%)",
+          "text": "#c30377",
+          "button": "#ffffff",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#ffffff"
+        }
+      },
+      "scheme-c2d7978f-f104-43de-a51a-08788d417260": {
+        "settings": {
+          "background": "{{ shop.brand.colors.primary[0].background }}",
+          "background_gradient": "linear-gradient(0deg, rgba(8, 0, 0, 1) 54%, rgba(90, 2, 2, 1) 100%)",
+          "text": "#c3c0c0",
+          "button": "#ff0000",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#172a01"
+        }
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "logo_width": 90,
+      "color_schemes": {
+        "background-1": {
+          "settings": {
+            "background": "#FFFFFF",
+            "background_gradient": "",
+            "text": "#121212",
+            "button": "#121212",
+            "button_label": "#FFFFFF",
+            "secondary_button_label": "#121212",
+            "shadow": "#121212"
+          }
+        },
+        "background-2": {
+          "settings": {
+            "background": "#F3F3F3",
+            "background_gradient": "",
+            "text": "#121212",
+            "button": "#121212",
+            "button_label": "#F3F3F3",
+            "secondary_button_label": "#121212",
+            "shadow": "#121212"
+          }
+        },
+        "inverse": {
+          "settings": {
+            "background": "#242833",
+            "background_gradient": "",
+            "text": "#FFFFFF",
+            "button": "#FFFFFF",
+            "button_label": "#000000",
+            "secondary_button_label": "#FFFFFF",
+            "shadow": "#121212"
+          }
+        },
+        "accent-1": {
+          "settings": {
+            "background": "#121212",
+            "background_gradient": "",
+            "text": "#FFFFFF",
+            "button": "#FFFFFF",
+            "button_label": "#121212",
+            "secondary_button_label": "#FFFFFF",
+            "shadow": "#121212"
+          }
+        },
+        "accent-2": {
+          "settings": {
+            "background": "#334FB4",
+            "background_gradient": "",
+            "text": "#FFFFFF",
+            "button": "#FFFFFF",
+            "button_label": "#334FB4",
+            "secondary_button_label": "#FFFFFF",
+            "shadow": "#121212"
+          }
+        }
+      },
+      "type_header_font": "assistant_n4",
+      "heading_scale": 100,
+      "type_body_font": "assistant_n4",
+      "body_scale": 100,
+      "page_width": 1200,
+      "spacing_sections": 0,
+      "spacing_grid_horizontal": 8,
+      "spacing_grid_vertical": 8,
+      "animations_reveal_on_scroll": true,
+      "animations_hover_elements": "none",
+      "buttons_border_thickness": 1,
+      "buttons_border_opacity": 100,
+      "buttons_radius": 0,
+      "buttons_shadow_opacity": 0,
+      "buttons_shadow_horizontal_offset": 0,
+      "buttons_shadow_vertical_offset": 4,
+      "buttons_shadow_blur": 5,
+      "variant_pills_border_thickness": 1,
+      "variant_pills_border_opacity": 55,
+      "variant_pills_radius": 40,
+      "variant_pills_shadow_opacity": 0,
+      "variant_pills_shadow_horizontal_offset": 0,
+      "variant_pills_shadow_vertical_offset": 4,
+      "variant_pills_shadow_blur": 5,
+      "inputs_border_thickness": 1,
+      "inputs_border_opacity": 55,
+      "inputs_radius": 0,
+      "inputs_shadow_opacity": 0,
+      "inputs_shadow_horizontal_offset": 0,
+      "inputs_shadow_vertical_offset": 4,
+      "inputs_shadow_blur": 5,
+      "card_style": "standard",
+      "card_image_padding": 0,
+      "card_text_alignment": "left",
+      "card_color_scheme": "background-2",
+      "card_border_thickness": 0,
+      "card_border_opacity": 10,
+      "card_corner_radius": 0,
+      "card_shadow_opacity": 0,
+      "card_shadow_horizontal_offset": 0,
+      "card_shadow_vertical_offset": 4,
+      "card_shadow_blur": 5,
+      "collection_card_style": "standard",
+      "collection_card_image_padding": 0,
+      "collection_card_text_alignment": "left",
+      "collection_card_color_scheme": "background-2",
+      "collection_card_border_thickness": 0,
+      "collection_card_border_opacity": 10,
+      "collection_card_corner_radius": 0,
+      "collection_card_shadow_opacity": 0,
+      "collection_card_shadow_horizontal_offset": 0,
+      "collection_card_shadow_vertical_offset": 4,
+      "collection_card_shadow_blur": 5,
+      "blog_card_style": "standard",
+      "blog_card_image_padding": 0,
+      "blog_card_text_alignment": "left",
+      "blog_card_color_scheme": "background-2",
+      "blog_card_border_thickness": 0,
+      "blog_card_border_opacity": 10,
+      "blog_card_corner_radius": 0,
+      "blog_card_shadow_opacity": 0,
+      "blog_card_shadow_horizontal_offset": 0,
+      "blog_card_shadow_vertical_offset": 4,
+      "blog_card_shadow_blur": 5,
+      "text_boxes_border_thickness": 0,
+      "text_boxes_border_opacity": 10,
+      "text_boxes_radius": 0,
+      "text_boxes_shadow_opacity": 0,
+      "text_boxes_shadow_horizontal_offset": 0,
+      "text_boxes_shadow_vertical_offset": 4,
+      "text_boxes_shadow_blur": 5,
+      "media_border_thickness": 1,
+      "media_border_opacity": 5,
+      "media_radius": 0,
+      "media_shadow_opacity": 0,
+      "media_shadow_horizontal_offset": 0,
+      "media_shadow_vertical_offset": 4,
+      "media_shadow_blur": 5,
+      "popup_border_thickness": 1,
+      "popup_border_opacity": 10,
+      "popup_corner_radius": 0,
+      "popup_shadow_opacity": 5,
+      "popup_shadow_horizontal_offset": 0,
+      "popup_shadow_vertical_offset": 4,
+      "popup_shadow_blur": 5,
+      "drawer_border_thickness": 1,
+      "drawer_border_opacity": 10,
+      "drawer_shadow_opacity": 0,
+      "drawer_shadow_horizontal_offset": 0,
+      "drawer_shadow_vertical_offset": 4,
+      "drawer_shadow_blur": 5,
+      "badge_position": "bottom left",
+      "badge_corner_radius": 40,
+      "sale_badge_color_scheme": "accent-2",
+      "sold_out_badge_color_scheme": "inverse",
+      "brand_headline": "",
+      "brand_description": "<p><\/p>",
+      "brand_image_width": 100,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tiktok_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "predictive_search_enabled": true,
+      "predictive_search_show_vendor": false,
+      "predictive_search_show_price": false,
+      "currency_code_enabled": true,
+      "cart_type": "notification",
+      "show_vendor": false,
+      "show_cart_note": false,
+      "cart_drawer_collection": "",
+      "sections": {
+        "main-password-header": {
+          "type": "main-password-header",
+          "settings": {
+            "color_scheme": "background-1"
+          }
+        },
+        "main-password-footer": {
+          "type": "main-password-footer",
+          "settings": {
+            "color_scheme": "background-1"
+          }
+        }
+      }
+    }
+  }
+}

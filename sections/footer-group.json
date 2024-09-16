@@ -1,0 +1,80 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "16830690892346e5da": {
+      "type": "apps",
+      "blocks": {
+        "9c4df2bb-ae36-4641-8c51-7f998ec177a8": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
+        }
+      },
+      "block_order": [
+        "9c4df2bb-ae36-4641-8c51-7f998ec177a8"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "78894b12-30ad-4d56-9fa3-87061e2ea5a3": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        },
+        "footer-0": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Info",
+            "menu": "footer"
+          }
+        },
+        "footer-2": {
+          "type": "text",
+          "settings": {
+            "heading": "We lead by example",
+            "subtext": "<p>Our goal at <strong>Hardcore<\/strong>, is to bring awareness how fucked up the world is, and that we have the power to change it !<\/p><p> We aim to inspire and empower people to pursue their passions without any fear of judgment  that focuses on discipline and perseverance and encourages individuals to unleash their inner awesomeness.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "78894b12-30ad-4d56-9fa3-87061e2ea5a3",
+        "footer-0",
+        "footer-1",
+        "footer-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 20,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "16830690892346e5da",
+    "footer"
+  ]
+}

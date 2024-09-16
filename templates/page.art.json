@@ -1,0 +1,214 @@
+{
+  "sections": {
+    "40c68b16-7222-496d-a536-5de2454f5ad9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16257170702523__40c68b16-7222-496d-a536-5de2454f5ad9-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16257170702523__40c68b16-7222-496d-a536-5de2454f5ad9-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16257170702523__40c68b16-7222-496d-a536-5de2454f5ad9-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16257170702523__40c68b16-7222-496d-a536-5de2454f5ad9-heading-1",
+        "template--16257170702523__40c68b16-7222-496d-a536-5de2454f5ad9-text-1",
+        "template--16257170702523__40c68b16-7222-496d-a536-5de2454f5ad9-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_500_x_500_px_copy_5566a59b-552a-400e-a80f-d5aeca5dd71d.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "782518d1-66f0-4881-aeaf-25942f15be51": {
+      "type": "multirow",
+      "blocks": {
+        "template--16257170702523__782518d1-66f0-4881-aeaf-25942f15be51-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_500_x_500_px_df0c8470-ca7e-4434-b8c8-c87892b49e05.jpg",
+            "caption": "Hardcore Art",
+            "heading": "Color pencil",
+            "text": "<p>One of my favorites. I started with color pencil<\/p>",
+            "button_label": "Art Gallery",
+            "button_link": "shopify:\/\/pages\/hardcore-art-color-pencil"
+          }
+        },
+        "template--16257170702523__782518d1-66f0-4881-aeaf-25942f15be51-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hardcore_art_copy_2.png",
+            "caption": "Hardcore Art",
+            "heading": "Graphite",
+            "text": "<p>I really like the look of pencil. I like how dark and smooth I can get it.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16257170702523__782518d1-66f0-4881-aeaf-25942f15be51-row-3": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16257170702523__782518d1-66f0-4881-aeaf-25942f15be51-row-2",
+        "template--16257170702523__782518d1-66f0-4881-aeaf-25942f15be51-row-1",
+        "template--16257170702523__782518d1-66f0-4881-aeaf-25942f15be51-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "110fa057-5997-405a-ab19-db1d43f70711": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16257170702523__110fa057-5997-405a-ab19-db1d43f70711-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Available for Commission",
+            "heading_size": "h1"
+          }
+        },
+        "template--16257170702523__110fa057-5997-405a-ab19-db1d43f70711-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I'm versatile with my projects, I'm willing to do some projects for special Occasions. I also hope to connect other feature artists with customers.<\/p>"
+          }
+        },
+        "template--16257170702523__110fa057-5997-405a-ab19-db1d43f70711-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16257170702523__110fa057-5997-405a-ab19-db1d43f70711-heading-1",
+        "template--16257170702523__110fa057-5997-405a-ab19-db1d43f70711-text-1",
+        "template--16257170702523__110fa057-5997-405a-ab19-db1d43f70711-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a762a96e-32c2-437a-8fac-e43c7bd49ad8": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h0",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1b66bae9-8108-4d6b-b304-6128305a75df": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-0",
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-1",
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "40c68b16-7222-496d-a536-5de2454f5ad9",
+    "main",
+    "782518d1-66f0-4881-aeaf-25942f15be51",
+    "110fa057-5997-405a-ab19-db1d43f70711",
+    "a762a96e-32c2-437a-8fac-e43c7bd49ad8",
+    "1b66bae9-8108-4d6b-b304-6128305a75df"
+  ]
+}

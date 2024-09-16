@@ -1,0 +1,66 @@
+{
+  "sections": {
+    "75282436-3ab9-490d-9d83-966540e4552e": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HARDCORE_3.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "1b66bae9-8108-4d6b-b304-6128305a75df": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-0",
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-1",
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "75282436-3ab9-490d-9d83-966540e4552e",
+    "main",
+    "1b66bae9-8108-4d6b-b304-6128305a75df"
+  ]
+}

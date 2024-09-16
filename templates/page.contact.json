@@ -1,0 +1,92 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "99ab0abd-3604-4e52-b85d-248c9b30b69d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16255521325243__99ab0abd-3604-4e52-b85d-248c9b30b69d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "This is the Big Picture",
+            "heading_size": "h1"
+          }
+        },
+        "template--16255521325243__99ab0abd-3604-4e52-b85d-248c9b30b69d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>My dream is to paint buildings with the sickest designs! Its the biggest piece of art you can create, other than your journey through life. The Big Picture! <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521325243__99ab0abd-3604-4e52-b85d-248c9b30b69d-heading-1",
+        "template--16255521325243__99ab0abd-3604-4e52-b85d-248c9b30b69d-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c2a9e64c-3c3b-4c6d-a5e9-55dfec8798ef": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16204330107067__c2a9e64c-3c3b-4c6d-a5e9-55dfec8798ef-16880350121f09bd1d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16204330107067__c2a9e64c-3c3b-4c6d-a5e9-55dfec8798ef-16880350121f09bd1d-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16204330107067__c2a9e64c-3c3b-4c6d-a5e9-55dfec8798ef-16880350121f09bd1d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16204330107067__c2a9e64c-3c3b-4c6d-a5e9-55dfec8798ef-16880350121f09bd1d-0",
+        "template--16204330107067__c2a9e64c-3c3b-4c6d-a5e9-55dfec8798ef-16880350121f09bd1d-1",
+        "template--16204330107067__c2a9e64c-3c3b-4c6d-a5e9-55dfec8798ef-16880350121f09bd1d-2"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "99ab0abd-3604-4e52-b85d-248c9b30b69d",
+    "form",
+    "c2a9e64c-3c3b-4c6d-a5e9-55dfec8798ef"
+  ]
+}

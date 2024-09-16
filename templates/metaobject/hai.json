@@ -1,0 +1,35 @@
+{
+  "sections": {
+    "bb8541fb-90de-4598-8cec-6d7dca0e43ee": {
+      "type": "image-banner",
+      "blocks": {
+        "b9031d36-0b35-44d5-aa73-2081aa9d12f6": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "b9031d36-0b35-44d5-aa73-2081aa9d12f6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_1_copy_12_83554bd9-6361-4b7d-b6bc-76db28d6fa01.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "bb8541fb-90de-4598-8cec-6d7dca0e43ee"
+  ]
+}

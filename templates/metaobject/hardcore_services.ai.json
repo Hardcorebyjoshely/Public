@@ -1,0 +1,65 @@
+{
+  "sections": {
+    "30fe6d8c-523d-45dd-991d-96f5186d3292": {
+      "type": "multirow",
+      "blocks": {
+        "template--16255521259707__30fe6d8c-523d-45dd-991d-96f5186d3292-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/277813481_4919843988051422_8867278177514251797_n.jpg",
+            "caption": "Hardcore Services",
+            "heading": "Hardcore Tattoo",
+            "text": "",
+            "button_label": "Contact",
+            "button_link": "shopify:\/\/pages\/hardcore-about-us"
+          }
+        },
+        "template--16255521259707__30fe6d8c-523d-45dd-991d-96f5186d3292-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hardcore_art.jpg",
+            "caption": "hardcore services",
+            "heading": "Hardcore Art",
+            "text": "",
+            "button_label": "Art gallery",
+            "button_link": "shopify:\/\/pages\/hardcore-art"
+          }
+        },
+        "template--16255521259707__30fe6d8c-523d-45dd-991d-96f5186d3292-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_500_x_500_px_copy.jpg",
+            "caption": "hardcore services",
+            "heading": "HAI",
+            "text": "{{ metaobject.HAI | metafield_tag }}",
+            "button_label": "AI",
+            "button_link": "shopify:\/\/pages\/hardcore-ai"
+          }
+        }
+      },
+      "block_order": [
+        "template--16255521259707__30fe6d8c-523d-45dd-991d-96f5186d3292-row-1",
+        "template--16255521259707__30fe6d8c-523d-45dd-991d-96f5186d3292-row-2",
+        "template--16255521259707__30fe6d8c-523d-45dd-991d-96f5186d3292-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "30fe6d8c-523d-45dd-991d-96f5186d3292"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "74011a44-c6af-4dd5-b38e-520879c4e198": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping-Track your order",
+            "link": "https:\/\/hardcorebyjoshely.aftership.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "74011a44-c6af-4dd5-b38e-520879c4e198"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "top-center",
+        "menu": "menu",
+        "menu_type_desktop": "drawer",
+        "sticky_header_type": "reduce-logo-size",
+        "show_line_separator": true,
+        "color_scheme": "accent-1",
+        "menu_color_scheme": "accent-1",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "168644031798d87c5d": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "168644031798d87c5d"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "sections": {
+    "0d05e02c-2f4a-4d78-a3e6-488450d4b19a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16236951863483__0d05e02c-2f4a-4d78-a3e6-488450d4b19a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hardcore Services",
+            "heading_size": "h1"
+          }
+        },
+        "template--16236951863483__0d05e02c-2f4a-4d78-a3e6-488450d4b19a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "As a life long artist. I Have used art as a way of release my insanity and make it visual as a  personal Fuck You !",
+            "text_style": "body"
+          }
+        },
+        "template--16236951863483__0d05e02c-2f4a-4d78-a3e6-488450d4b19a-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16236951863483__0d05e02c-2f4a-4d78-a3e6-488450d4b19a-heading-1",
+        "template--16236951863483__0d05e02c-2f4a-4d78-a3e6-488450d4b19a-text-1",
+        "template--16236951863483__0d05e02c-2f4a-4d78-a3e6-488450d4b19a-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/96_gt_dyno_compe_copy_80c8fb80-f000-49cf-989c-2b479befbb54.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "31a60644-b299-4617-bc5b-305bae5dd7e3": {
+      "type": "multirow",
+      "blocks": {
+        "template--16236951863483__31a60644-b299-4617-bc5b-305bae5dd7e3-row-1": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Hardcore tattoo",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--16236951863483__31a60644-b299-4617-bc5b-305bae5dd7e3-row-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Hardcore Graffiti",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Graffiti Services",
+            "button_link": "shopify:\/\/pages\/hardcore-graffiti"
+          }
+        },
+        "template--16236951863483__31a60644-b299-4617-bc5b-305bae5dd7e3-row-3": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Hardcore AI",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "AI Services",
+            "button_link": "shopify:\/\/pages\/hardcore-ai"
+          }
+        }
+      },
+      "block_order": [
+        "template--16236951863483__31a60644-b299-4617-bc5b-305bae5dd7e3-row-1",
+        "template--16236951863483__31a60644-b299-4617-bc5b-305bae5dd7e3-row-2",
+        "template--16236951863483__31a60644-b299-4617-bc5b-305bae5dd7e3-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1e7f48dc-8752-4956-a086-5f7752fcf6a7": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "0d05e02c-2f4a-4d78-a3e6-488450d4b19a",
+    "31a60644-b299-4617-bc5b-305bae5dd7e3",
+    "1e7f48dc-8752-4956-a086-5f7752fcf6a7"
+  ]
+}

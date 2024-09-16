@@ -1,0 +1,96 @@
+{
+  "sections": {
+    "23b3a838-d1ee-4562-9ade-8d2ddd59cb58": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16267472994491__23b3a838-d1ee-4562-9ade-8d2ddd59cb58-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hardcore Pride",
+            "heading_size": "h2"
+          }
+        },
+        "template--16267472994491__23b3a838-d1ee-4562-9ade-8d2ddd59cb58-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Living a life unfiltered and raw, I've danced with demons in prison, addiction, battled mental health storms, and flirted with death. Yet here I stand,  Do the right shit, no excuses. Follow your heart, defy the odds. It’s not just a choice, it's a hardcore allegiance.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16267472994491__23b3a838-d1ee-4562-9ade-8d2ddd59cb58-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "My Story",
+            "button_link": "shopify:\/\/pages\/my-story",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16267472994491__23b3a838-d1ee-4562-9ade-8d2ddd59cb58-heading-1",
+        "template--16267472994491__23b3a838-d1ee-4562-9ade-8d2ddd59cb58-text-1",
+        "template--16267472994491__23b3a838-d1ee-4562-9ade-8d2ddd59cb58-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hardcore_art_copy_3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "1b66bae9-8108-4d6b-b304-6128305a75df": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-0",
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-1",
+        "template--16073642016955__1b66bae9-8108-4d6b-b304-6128305a75df-16741352123eedca39-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "23b3a838-d1ee-4562-9ade-8d2ddd59cb58",
+    "main",
+    "1b66bae9-8108-4d6b-b304-6128305a75df"
+  ]
+}
